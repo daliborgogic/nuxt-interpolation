@@ -9,7 +9,7 @@
 
 ```javascript
 {
-  plugins: ['daliborgogic/interpolation']
+  plugins: ['nuxt-interpolation']
 }
 ```
 
