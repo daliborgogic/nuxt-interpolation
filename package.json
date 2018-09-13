@@ -8,7 +8,7 @@
   },
   "scripts": {
     "lint": "node_modules/.bin/eslint --ext .js lib",
-    "release": "standard-version && git push --follow-tags --sign && npm publish"
+    "release": "standard-version --sign && git push --follow-tags && npm publish"
   },
   "publishConfig": {
     "access": "public"
