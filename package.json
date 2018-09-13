@@ -1,6 +1,6 @@
 {
   "name": "nuxt-interpolation",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Directive for binding every link to catch the click event, and if it's a relative link  router will push.",
   "main": "index.js",
   "directories": {
