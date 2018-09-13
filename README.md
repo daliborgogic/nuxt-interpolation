@@ -5,11 +5,11 @@
 ## Setup
 
 - Add ```nuxt-interpolation``` as dependency
-- Add ```nuxt-interpolation``` to plugins section of ```nuxt.config.js```
+- Point ```nuxt-interpolation``` to plugins section of ```nuxt.config.js```
 
 ```javascript
 {
-  plugins: ['nuxt-interpolation']
+  plugins: ['./node_modules/nuxt-interpolation']
 }
 ```
 
