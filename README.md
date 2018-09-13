@@ -1,6 +1,6 @@
 # interpolation
 
-> Directive for binding every link to catch the click event, and if it's a relative link  ```router.push```
+> Directive for binding every link to catch the click event, and if it's a relative link router will push.
 
 ## Setup
 

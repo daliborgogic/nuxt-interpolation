@@ -1,7 +1,7 @@
 {
   "name": "interpolation",
   "version": "0.1.0",
-  "description": "> Directive for binding every link to catch the click event, and if it's a relative link, we simply use ```router.push```",
+  "description": "Directive for binding every link to catch the click event, and if it's a relative link  router will push.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
