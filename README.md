@@ -4,8 +4,8 @@
 
 ## Setup
 
-- Add ```daliborgogic/interploation``` as dependency
-- Add ```daliborgogic/interploation``` to plugins section of ```nuxt.config.js```
+- Add ```nuxt-interpolation``` as dependency
+- Add ```nuxt-interpolation``` to plugins section of ```nuxt.config.js```
 
 ```javascript
 {
