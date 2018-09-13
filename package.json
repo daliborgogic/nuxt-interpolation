@@ -1,0 +1,42 @@
+{
+  "name": "interpolation",
+  "version": "0.1.0",
+  "description": "> Directive for binding every link to catch the click event, and if it's a relative link, we simply use ```router.push```",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "lint": "node_modules/.bin/eslint --ext .js lib",
+    "release": "standard-version && git push --follow-tags && npm publish"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daliborgogic/interpolation.git"
+  },
+  "keywords": [
+    "nuxt",
+    "router",
+    "links",
+    "internal",
+    "external"
+  ],
+  "author": "Dalibor Gogic <mail@daliborgogic/com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daliborgogic/interpolation/issues"
+  },
+  "homepage": "https://github.com/daliborgogic/interpolation#readme",
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "standard-version": "^4.4.0"
+  }
+}
