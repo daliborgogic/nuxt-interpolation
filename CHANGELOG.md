@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.1.6"></a>
+## [0.1.6](https://github.com/daliborgogic/nuxt-interpolation/compare/v0.1.5...v0.1.6) (2018-09-13)
+
+
+### Bug Fixes
+
+* signed push ([3292abd](https://github.com/daliborgogic/nuxt-interpolation/commit/3292abd))
+
+
+
 <a name="0.1.5"></a>
 ## [0.1.5](https://github.com/daliborgogic/nuxt-interpolation/compare/v0.1.4...v0.1.5) (2018-09-13)
 
