@@ -1,6 +1,6 @@
 {
   "name": "interpolation",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Directive for binding every link to catch the click event, and if it's a relative link  router will push.",
   "main": "index.js",
   "directories": {
