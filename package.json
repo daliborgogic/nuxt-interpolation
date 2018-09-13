@@ -1,5 +1,5 @@
 {
-  "name": "interpolation",
+  "name": "nuxt-interpolation",
   "version": "0.1.1",
   "description": "Directive for binding every link to catch the click event, and if it's a relative link  router will push.",
   "main": "index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daliborgogic/interpolation.git"
+    "url": "git+https://github.com/daliborgogic/nuxt-interpolation.git"
   },
   "keywords": [
     "nuxt",
@@ -27,9 +27,9 @@
   "author": "Dalibor Gogic <mail@daliborgogic/com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/daliborgogic/interpolation/issues"
+    "url": "https://github.com/daliborgogic/nuxt-interpolation/issues"
   },
-  "homepage": "https://github.com/daliborgogic/interpolation#readme",
+  "homepage": "https://github.com/daliborgogic/nuxt-interpolation#readme",
   "devDependencies": {
     "eslint": "^5.5.0",
     "eslint-config-standard": "^12.0.0",
