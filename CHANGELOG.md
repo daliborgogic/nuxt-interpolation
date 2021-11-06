@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.6](https://github.com/daliborgogic/nuxt-interpolation/compare/v0.2.2...v0.2.6) (2021-11-06)
+
+
+### Bug Fixes
+
+* [#12](https://github.com/daliborgogic/nuxt-interpolation/issues/12) ([6913085](https://github.com/daliborgogic/nuxt-interpolation/commit/691308561d22db2eea5aedc06f6aa51522c61de5))
+* merge rel attributes ([48f718c](https://github.com/daliborgogic/nuxt-interpolation/commit/48f718ca44cca2cae85c5d7815847adb4f07d9ed))
+
 ### [0.2.5](https://github.com/daliborgogic/nuxt-interpolation/compare/v0.2.2...v0.2.5) (2021-11-06)
 
 
