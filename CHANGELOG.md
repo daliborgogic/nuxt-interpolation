@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.7](https://github.com/daliborgogic/nuxt-interpolation/compare/v0.2.6...v0.2.7) (2021-11-06)
+
+
+### Features
+
+* event metaKey ([de6c417](https://github.com/daliborgogic/nuxt-interpolation/commit/de6c417450c5c56e4007fe51ac613c765903b7b5))
+
+
+### Bug Fixes
+
+* missing `noopener` ([9bf855d](https://github.com/daliborgogic/nuxt-interpolation/commit/9bf855de5678ef7f4689ff2703233be0f1e6b5d4))
+
 ### [0.2.6](https://github.com/daliborgogic/nuxt-interpolation/compare/v0.2.2...v0.2.6) (2021-11-06)
 
 
